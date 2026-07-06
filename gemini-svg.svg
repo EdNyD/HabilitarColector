@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fondo con esquinas redondeadas -->
+  <rect width="512" height="512" rx="120" fill="#1e293b"/>
+  <!-- Base del birrete -->
+  <path d="M256 120L64 232l192 112 192-112L256 120z" fill="#3b82f6"/>
+  <!-- Copa del birrete -->
+  <path d="M400 300v80c0 20-32 40-72 56-22 9-48 14-72 14s-50-5-72-14c-40-16-72-36-72-56v-80l144 84 144-84z" fill="#1d4ed8"/>
+  <!-- Borla -->
+  <path d="M256 280v120" stroke="#93c5fd" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="256" cy="420" r="24" fill="#93c5fd"/>
+</svg>
